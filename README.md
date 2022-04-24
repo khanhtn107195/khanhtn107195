@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanhtn107195;
 - 👀 I’m interested in AI, web development and Network Technologies;
 - 🌱 I was graduated in 2020;
-- 💞️ I’m looking to collaborate on those topic that I have mentioned about;
+- 💞️ I’m looking to collaborate on those topic that I have mentioned above;
 - 📫 How to reach me: khanhtn107195@gmail.com
 
 <!---
